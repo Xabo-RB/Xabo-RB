@@ -1,6 +1,6 @@
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xabo-RB&theme=tokyonight&layout=compact&count_private=true)](https://github.com/Xabo-RB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xabo-RB&theme=tokyonight&layout=compact&bg_color=00000000)](https://github.com/Xabo-RB/github-readme-stats)
 
 <!--
 **Xabo-RB/Xabo-RB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
